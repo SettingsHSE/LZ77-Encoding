@@ -1,0 +1,3 @@
+C:/Users/sofik/CLionProjects/LZ77Encod/cmake-build-debug/CMakeFiles/LZ77Encod.dir
+C:/Users/sofik/CLionProjects/LZ77Encod/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sofik/CLionProjects/LZ77Encod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
